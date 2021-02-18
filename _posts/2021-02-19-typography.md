@@ -12,9 +12,9 @@ Everything is for sale. Even you in this world. We created Tronplace simply so p
 ## Our Interest
 
 We're interested in lots of things. We'll go over the obvious.
-1) Cryptography
-2) Encryption
-3) Blockchain
+1. Cryptography
+2. Encryption
+3. Blockchain
 4) Tron
 5) Ethereum
 6) Network communication protocols
@@ -32,6 +32,6 @@ It would be cool if we could just work together, vibe, listen to cool music, sha
 
 We're open to suggestions to improve the platform.
 
-> This is a blockquote
+> Anyway this is the launch of [TronPlace.com](https://tronplace.com) . Just a cool place to kick it for free without your activity being mined and evaluated.
 
-Anyway this is the launch of [TronPlace.com](https://tronplace.com) . Just a cool place to kick it for free without your activity being mined and evaluated.
+
