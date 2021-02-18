@@ -15,15 +15,15 @@ We're interested in lots of things. We'll go over the obvious.
 1. Cryptography
 2. Encryption
 3. Blockchain
-4) Tron
-5) Ethereum
-6) Network communication protocols
-7) We believe in freedom of speach but not freedom to be an asshole that gets off on fucking with people or making others feel like shit.
-8) Fishing
-9) Racecars
-10) Cute girls
-11) rollerblades (we're bringin em back)
-12) basically just cool ass next level shit.
+4. Tron
+5. Ethereum
+6. Network communication protocols
+7. We believe in freedom of speach but not freedom to be an asshole that gets off on fucking with people or making others feel like shit.
+8. Fishing
+9. Racecars
+10. Cute girls
+11. rollerblades (we're bringin em back)
+12. basically just cool ass next level shit.
 
 
 ### What we look forward to:
